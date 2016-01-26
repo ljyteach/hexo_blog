@@ -1,0 +1,17 @@
+menu:
+  主页: /
+  归档: /archives
+  jQuery:
+  bootstrap:
+  angular:
+  node:
+  HTML5:
+
+
+archive_date_format: MMM DD
+fancybox: true
+
+duoshuo_shortname:
+
+google_analytics:
+favicon: /favicon.ico
