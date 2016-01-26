@@ -57,7 +57,7 @@ menu_icons:
 # ---------------------------------------------------------------
 
 # Schemes
-#scheme: Muse
+#scheme: Muses
 #scheme: Mist
 scheme: Pisces
 
@@ -86,7 +86,7 @@ social_icons:
 # in theme directory(source/images): /images/avatar.jpg
 # in site  directory(source/uploads): /uploads/avatar.jpg
 # default : /images/default_avatar.jpg
-#avatar:
+avatar: /images/picL.jpg
 
 
 # TOC in the Sidebar
