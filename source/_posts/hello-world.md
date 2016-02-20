@@ -4,10 +4,10 @@ date: 2016-01-26 08:08:02
 tags: md
 ---
 
-markdown语法入门
+markdown语法入门,有待完善～修改中！
 
 ## 标题
-``` bash
+``` md
 # h1
 ## h2
 ### h3
@@ -17,19 +17,19 @@ markdown语法入门
 ```
 
 ## 代码
-\`\`\` bash 
+\`\`\`
 	//这里面是代码
 \`\`\`  
 
-``` bash
+``` js
 alert("hello markdown");
 console.log("hello markdown");
-     
+
 ```
 
 ## 连接
 跳转到百度：[百度](http://baidu.com)
-``` bash
+``` md
 跳转到百度：[百度](http://baidu.com)
 ```
 
@@ -39,30 +39,30 @@ console.log("hello markdown");
 + 鸭梨
 + 水蜜桃
 
-``` bash
+``` md
 + 香蕉
 + 苹果
 + 鸭梨
 + 水蜜桃
-``` 
+```
 
 ## 分隔线
 
 分隔线
 ********
 
-``` bash
+``` md
 分隔线
 ********
-``` 
+```
 
 ## em标签和strong标签
 *这是一段普通的文字*
 **这是一段普通的文字**
-``` bash
+```
 *这是一段普通的文字*
 **这是一段普通的文字**
-``` 
+```
 
 ## 反斜杠转义
 Markdown 支持以下这些符号前面加上反斜杠来帮助插入普通的符号：
@@ -79,9 +79,9 @@ _   底线
 -   减号
 .   英文句点
 !   惊叹号
-``` 
+```
 ## 最后附上一张图片
-``` bash
+``` md
 ![Alt text](/path/to/img.jpg "Optional title")
-``` 
+```
 ![picture](/img/banner.jpg "美丽的景色")
